@@ -14,7 +14,7 @@ function Home() {
 
       <section className="about">
         <h2 className="section-title">自己紹介</h2>
-        <img src="test.jpg" alt="テスト画像" className="profile-image" />
+        <img src="test.jp" alt="テスト画像" className="profile-image" />
         <p className="about-text">サイトをご覧いただきましてありがとうございます。</p>
         <p className="about-text">初めまして。長崎駿也と申します。</p>
       </section>
